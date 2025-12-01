@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Cristina
 
-<!--
-**cristinadefoe-sudo/cristinadefoe-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Revenue Operations Leader
 
-Here are some ideas to get you started:
+I bridge business strategy and technology—building sales systems, optimizing Salesforce, and designing CRM/ERP integrations. With degrees in Computer Engineering and Business Management plus a Full Stack Development certification, I speak both languages fluently.
+```javascript
+const skills = {
+  revOps: ['Salesforce', 'Pipeline Management', 'Forecasting', 'GTM Strategy'],
+  engineering: ['JavaScript', 'Node.js', 'React', 'SQL', 'API Integration'],
+  specialty: 'Turning complex systems into seamless operations'
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Build
+- Revenue operations infrastructure that scales
+- Custom Salesforce workflows and automations  
+- Integrations between sales systems and business platforms
+- Full-stack web applications (check my repos below)
+
+---
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristina-defoe) • cristina.defoe@gmail.com
