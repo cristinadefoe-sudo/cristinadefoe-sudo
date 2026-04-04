@@ -19,3 +19,5 @@ With a background in Computer Engineering and Business Management (plus full-sta
 - API integrations and automation between platforms  
 - Scalable processes across revenue and business systems  
 - Applications that support data handling, logic, and user interaction  
+
+🔗 LinkedIn: https://www.linkedin.com/in/cristina-defoe
