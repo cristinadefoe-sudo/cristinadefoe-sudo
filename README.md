@@ -1,22 +1,11 @@
-# 👋 Hi, I'm Cristina
+👋 Hi, I'm Cristina
+
+## About this work
+
+These projects were built during my full-stack development program at the University of Denver.
+
+They reflect my foundation in building applications, working with APIs, and understanding how systems and data flow together—skills I now apply in Revenue Operations.
+
+While my primary focus today is RevOps, this is where I continue to build and explore the technical side of systems.
 
 ### Revenue Operations Leader
-
-I bridge business strategy and technology—building sales systems, optimizing Salesforce, and designing CRM/ERP integrations. With degrees in Computer Engineering and Business Management plus a Full Stack Development certification, I speak both languages fluently.
-```javascript
-const skills = {
-  revOps: ['Salesforce', 'Pipeline Management', 'Forecasting', 'GTM Strategy'],
-  engineering: ['JavaScript', 'Node.js', 'React', 'SQL', 'API Integration'],
-  specialty: 'Turning complex systems into seamless operations'
-};
-```
-
-### 💼 What I Build
-- Revenue operations infrastructure that scales
-- Custom Salesforce workflows and automations  
-- Integrations between sales systems and business platforms
-- Full-stack web applications (check my repos below)
-
----
-
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristina-defoe) 
