@@ -19,4 +19,4 @@ const skills = {
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristina-defoe) • cristina.defoe@gmail.com
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristina-defoe) 
