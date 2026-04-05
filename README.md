@@ -1,5 +1,5 @@
 👋 Hi, I'm Cristina
-
+🔗 Portfolio: https://cristinadefoe.netlify.app
 ## About this work
 
 These projects were built during my full-stack development program at the University of Denver.
@@ -19,7 +19,5 @@ With a background in Computer Engineering and Business Management (plus full-sta
 - API integrations and automation between platforms  
 - Scalable processes across revenue and business systems  
 - Applications that support data handling, logic, and user interaction  
-
-🔗 Portfolio: https://cristinadefoe.netlify.app
 
 🔗 LinkedIn: https://www.linkedin.com/in/cristina-defoe
