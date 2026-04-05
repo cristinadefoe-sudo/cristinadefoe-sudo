@@ -20,4 +20,6 @@ With a background in Computer Engineering and Business Management (plus full-sta
 - Scalable processes across revenue and business systems  
 - Applications that support data handling, logic, and user interaction  
 
+🔗 Portfolio: https://cristinadefoe.netlify.app
+
 🔗 LinkedIn: https://www.linkedin.com/in/cristina-defoe
