@@ -1,5 +1,7 @@
 👋 Hi, I'm Cristina
+
 🔗 Portfolio: https://cristinadefoe.netlify.app
+
 ## About this work
 
 These projects were built during my full-stack development program at the University of Denver.
